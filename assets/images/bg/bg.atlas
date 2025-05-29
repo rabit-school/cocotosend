@@ -1,0 +1,10 @@
+bg.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+BG
+bounds:0,799,1920,1080
+grass
+bounds:0,521,1920,277
+tree
+bounds:0,0,498,520

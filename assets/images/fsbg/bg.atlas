@@ -1,0 +1,8 @@
+bg.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+BG
+bounds:0,438,1920,1080
+tree
+bounds:0,0,522,437
